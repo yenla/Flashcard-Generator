@@ -1,0 +1,11 @@
+{"text":"In video game, ..... is the name of the princess whom Mario repeatedly stops Bowser from kidnapping.","cloze":"Princess Peach"};
+
+{"text":"In 1986 Nintendo game ..... is set in the fantasy land of Hyrule, and centres on a boy named Link.","cloze":"The Legend of Zelda"};
+
+{"text":"In 1981 arcade game ..... video game, Jumpmans goal is to save the Lady from the giant ape.","cloze":"Donkey Kong"};
+
+{"text":"..... is the name of the fictional English archaeologist in the game Tomb Raider?","cloze":"Lara Croft"};
+
+{"text":"..... is a game series in which The Covenant are fictional military alien races.","cloze":"Halo"};
+
+{"text":"In ..... game you are able to aim at the tv with a plastic gun.","cloze":"Duck Hunt"}

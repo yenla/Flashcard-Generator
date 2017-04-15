@@ -1,0 +1,11 @@
+{"front":"Which video company released its first game console in North America in 1985?","back":"Nintendo"};
+
+{"front":"In the game ‘Doom’, which planet is the space marine posted to after assaulting his commanding officer?","back":"Mars"};
+
+{"front":"The Covenant are fictional military alien races in which game series?","back":"Halo"};
+
+{"front":"Who is the Most Famous Video Game Character of all Time?","back":"Mario"};
+
+{"front":"which game is the first person shooter video game released in 1993?","back":"Doom"};
+
+{"front":"What is the name of Chris Redfields sister in Resident Evil?","back":"Claire"}
